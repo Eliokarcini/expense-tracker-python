@@ -64,3 +64,11 @@ App opens on `http://localhost:8501`
 - Data visualization with Plotly
 - Database management with SQLite
 - Frontend development with Streamlit
+
+## 📞 Support
+For questions, issues, or feature requests, please open an issue in this repository.
+
+## 👤 Author
+**Elio Karcini**  
+Computer Science Major, University of South Florida  
+GitHub: https://github.com/Eliokarcini
